@@ -5,8 +5,7 @@
 
 ### Resultado del orden descendente del Top 10
 
-
-![Top Descendente](img/top_descendente.png)
+! [Captura de pantalla](TopMusical/ordendescendente.png)
 
 ![Captura de pantalla](TopMusical/Captura.JPG)
 
@@ -14,5 +13,4 @@
 
 ![Imagen de cambios Jairo](TopMusical\img\cambioCancionArtista.png)
 
-![Top Descendente](TopMusical/top_descendente.jpg)
 
