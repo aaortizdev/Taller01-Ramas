@@ -2,4 +2,4 @@
 
 ### Resultado del orden descendente del Top 10
 
-![Top Descendente](img/top_descendente.png)
+![Top Descendente](TopMusical/top_descendente.jpg)
