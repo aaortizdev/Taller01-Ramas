@@ -36,7 +36,7 @@ public class PrimaryController {
 
             HBox hb = new HBox(10);//hbox para ubicar info de cada cancion
             Label lbp = new Label(c.getPosActual() + "");
-            lbp.setStyle("-fx-font-weight: bold;-fx-font-size: 40;");
+            lbp.setStyle("-fx-font-weight: bold; -fx-font-size: 40; -fx-text-fill: red;");
             ImageView iv = new ImageView();
             try {
                 Image img = new Image(new FileInputStream("img/" + c.getImagen()), 50, 50, true, true);
