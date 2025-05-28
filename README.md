@@ -9,3 +9,6 @@
 
 ![Captura de pantalla](TopMusical/Captura.JPG)
 
+# Imagen con cambio de artista y cancion
+
+![Imagen de cambios Jairo](TopMusical\img\cambioCancionArtista.png)
